@@ -35,7 +35,7 @@ playwright-test-suite/
 
 🚀 How to Run the Tests
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR-USERNAME/playwright-test-suite.git
+git clone https://github.com/galam2025/playwright-test-suite.git
 cd playwright-test-suite
 2️⃣ Install Dependencies
 npm install
