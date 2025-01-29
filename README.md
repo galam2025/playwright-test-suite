@@ -13,13 +13,13 @@ This repository contains an end-to-end Playwright test automation framework buil
 🛠️ Project Structure:
 
 playwright-test-suite/
-│-- tests/               # Test cases
-│   ├── dynamic-tests.spec.ts   # Data-driven test execution
-│   ├── login.ts                # Login utility
-│-- pages/               # Page Object Model (POM) files
+│-- tests/                        # Test cases
+│   ├── dynamic-tests.spec.ts     # Data-driven test execution
+│   ├── login.ts                  # Login utility
+│-- pages/                        # Page Object Model (POM) files
 │   ├── login.page.ts
 │   ├── dashboard.page.ts
-│-- test-data/           # JSON-based test data
+│-- test-data/                    # JSON-based test data
 │   ├── test-data.json
 │-- utils/               # Helper functions & config
 │   ├── config.ts        # Base URL & credentials
@@ -46,6 +46,7 @@ npx playwright show-report
 
 🌟 Why This Framework?
 This automation framework follows industry best practices, ensuring scalability, maintainability, and efficiency in UI testing. The data-driven approach allows easy modification of test cases, and the POM structure enhances reusability. The framework is built for modern automation needs, supporting parallel execution, cross-browser testing, and headless mode for faster CI/CD runs.
+
 🔹 technical assessment.
 📌 Built using Playwright + TypeScript + POM + Data-Driven Testing.
 📢 Want to Contribute?
