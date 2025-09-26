@@ -3,7 +3,7 @@ This repository contains an end-to-end Playwright test automation framework buil
 
 ✅ Key Features & Tech Stack:
 🎭 Playwright – Modern automation framework for UI testing
-🔹 TypeScript – Strongly-typed language for maintainable tests
+🔹 JavaScript - maintainable tests
 📂 Page Object Model (POM) – Structured test architecture
 📊 Data-Driven Testing – JSON-based test data for flexibility
 ⚡ Fast & Reliable – Tests run in parallel with retry mechanisms
@@ -48,6 +48,6 @@ npx playwright show-report
 This automation framework follows industry best practices, ensuring scalability, maintainability, and efficiency in UI testing. The data-driven approach allows easy modification of test cases, and the POM structure enhances reusability. The framework is built for modern automation needs, supporting parallel execution, cross-browser testing, and headless mode for faster CI/CD runs.
 
 🔹 technical assessment.
-📌 Built using Playwright + TypeScript + POM + Data-Driven Testing.
+📌 Built using Playwright + JavaScript + POM + Data-Driven Testing.
 📢 Want to Contribute?
 Feel free to fork this repo, raise issues, or submit PRs to enhance it further! 🚀
