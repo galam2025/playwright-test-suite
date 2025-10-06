@@ -1,5 +1,5 @@
 🚀 Playwright Test Automation Framework
-This repository contains an end-to-end Playwright test automation framework built using TypeScript. 
+This repository contains an end-to-end Playwright test automation framework built using Javascript. 
 
 ✅ Key Features & Tech Stack:
 🎭 Playwright – Modern automation framework for UI testing
